@@ -4,7 +4,11 @@
 
 ## Name of the Project
 
+Whew... That Was Close
+
 ## Team Members (Name and Student IDs)
+
+Raquel Haddad 3452269703
 
 ## Instructions to create a conda enviornment
 
