@@ -14,6 +14,8 @@ Raquel Haddad 3452269703
 
 ## Instructions on how to install the required libraries
 
+```pip install -r requirements.txt```
+
 ## Instructions on how to download the data
 
 ## Instructions on how to clean the data
