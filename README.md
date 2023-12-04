@@ -10,11 +10,11 @@ Whew... That Was Close
 
 Raquel Haddad 3452269703
 
-## Instructions to create a conda enviornment
+## Instructions to create a conda environment
 
 ## Instructions on how to install the required libraries
 
-```pip install -r requirements.txt```
+In your terminal, run: ```pip install -r requirements.txt```
 
 ## Instructions on how to download the data
 
