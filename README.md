@@ -12,6 +12,10 @@ Raquel Haddad 3452269703
 
 ## Instructions to create a conda environment
 
+To create a virtual environment, run: ```conda create -n myenvironment python=3.10 -y```
+
+To activate the conda environment, run: ```conda activate myenvironment```
+
 ## Instructions on how to install the required libraries
 
 In your terminal, run: ```pip install -r requirements.txt```
