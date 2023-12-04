@@ -16,6 +16,8 @@ To create a virtual environment, run: ```conda create -n myenvironment python=3.
 
 To activate the conda environment, run: ```conda activate myenvironment```
 
+Then, clone my project repository.
+
 ## Instructions on how to install the required libraries
 
 In your terminal, run: ```pip install -r requirements.txt```
