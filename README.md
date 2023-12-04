@@ -22,8 +22,16 @@ In your terminal, run: ```pip install -r requirements.txt```
 
 ## Instructions on how to download the data
 
+Please see attached Jupyter notebook.
+
 ## Instructions on how to clean the data
+
+Please see attached Jupyter notebook.
 
 ## Instrucions on how to run analysis code
 
+Please see attached Jupyter notebook.
+
 ## Instructions on how to create visualizations
+
+Please see attached Jupyter notebook.
