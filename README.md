@@ -16,24 +16,26 @@ To create a virtual environment, run: ```conda create -n myenvironment python=3.
 
 To activate the conda environment, run: ```conda activate myenvironment```
 
-Then, clone my project repository.
-
 ## Instructions on how to install the required libraries
 
 In your terminal, run: ```pip install -r requirements.txt```
 
 ## Instructions on how to download the data
 
-Please see attached Jupyter notebook.
+Close-approach data from: https://ssd-api.jpl.nasa.gov/cad.api
+Orbital elements for selected small-body IDs via: https://ssd-api.jpl.nasa.gov/sbdb.api
 
 ## Instructions on how to clean the data
 
-Please see attached Jupyter notebook.
+After retrieving the raw API data, the script:
+- Converts distance, diameter, velocity, and magnitude values to numeric format
+- Filters and extracts relevant orbital elements
+- Parses HTML news articles to extract titles, dates, and links
 
 ## Instrucions on how to run analysis code
 
-Please see attached Jupyter notebook.
+Clone project repository and then run the main Python script. 
 
 ## Instructions on how to create visualizations
 
-Please see attached Jupyter notebook.
+Refer to main Python script for 2D/3D plots.
